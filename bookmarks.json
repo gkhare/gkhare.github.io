@@ -1,0 +1,20 @@
+{
+  "bookmarks" : [
+    {
+      "name" : "",
+      "description": "Github account for https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715"
+      "url" : "https://github.com/stefan-jansen/machine-learning-for-trading"
+    },
+    {
+      "name" : "AI  for Finance",
+      "description": "FinGPT: Open-Source Financial Large Language Models"
+      "url" : "https://github.com/AI4Finance-Foundation/FinGPT"
+    },
+    {
+      "name" : "",
+      "description": ""
+      "url" : ""
+    },
+    
+  ]
+}
